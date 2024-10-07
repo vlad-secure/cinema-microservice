@@ -46,6 +46,7 @@
     "morgan": "^1.7.0",
     "nodemailer": "^3.0.2",
     "nodemailer-smtp-transport": "^2.7.2",
-    "spdy": "^3.4.4"
+    "spdy": "^3.4.4",
+         "eventsource": "1.1.0"
   }
 }
